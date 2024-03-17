@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ninzato/IndoTrivia-V1/static/css/main.b26c5faf.css",
+    "main.js": "/Ninzato/IndoTrivia-V1/static/js/main.d9f74315.js",
+    "static/js/952.149ccd41.chunk.js": "/Ninzato/IndoTrivia-V1/static/js/952.149ccd41.chunk.js",
+    "index.html": "/Ninzato/IndoTrivia-V1/index.html",
+    "main.b26c5faf.css.map": "/Ninzato/IndoTrivia-V1/static/css/main.b26c5faf.css.map",
+    "main.d9f74315.js.map": "/Ninzato/IndoTrivia-V1/static/js/main.d9f74315.js.map",
+    "952.149ccd41.chunk.js.map": "/Ninzato/IndoTrivia-V1/static/js/952.149ccd41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b26c5faf.css",
+    "static/js/main.d9f74315.js"
+  ]
+}
