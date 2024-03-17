@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ninzato/IndoTrivia-V1/static/css/main.b26c5faf.css",
-    "main.js": "/Ninzato/IndoTrivia-V1/static/js/main.d9f74315.js",
-    "static/js/952.149ccd41.chunk.js": "/Ninzato/IndoTrivia-V1/static/js/952.149ccd41.chunk.js",
-    "index.html": "/Ninzato/IndoTrivia-V1/index.html",
-    "main.b26c5faf.css.map": "/Ninzato/IndoTrivia-V1/static/css/main.b26c5faf.css.map",
-    "main.d9f74315.js.map": "/Ninzato/IndoTrivia-V1/static/js/main.d9f74315.js.map",
-    "952.149ccd41.chunk.js.map": "/Ninzato/IndoTrivia-V1/static/js/952.149ccd41.chunk.js.map"
+    "main.css": "./static/css/main.b26c5faf.css",
+    "main.js": "./static/js/main.40ada438.js",
+    "static/js/952.149ccd41.chunk.js": "./static/js/952.149ccd41.chunk.js",
+    "index.html": "./index.html",
+    "main.b26c5faf.css.map": "./static/css/main.b26c5faf.css.map",
+    "main.40ada438.js.map": "./static/js/main.40ada438.js.map",
+    "952.149ccd41.chunk.js.map": "./static/js/952.149ccd41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b26c5faf.css",
-    "static/js/main.d9f74315.js"
+    "static/js/main.40ada438.js"
   ]
 }
